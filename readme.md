@@ -1,6 +1,6 @@
 <!-- Center Align Social Badges -->
 <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/saketchoudhary" target="_blank">
+    <a href="https://www.linkedin.com/in/saket221211" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 </div>
@@ -26,7 +26,7 @@ Eager to solve challenging problems and always enthusiastic about learning new t
 </div>
 <h3 align="center">A passionate Computer Engineer from India</h3>
 
-<p align="left"> <a href="https://github.com/saketchoudhary"><img src="https://github-profile-trophy.vercel.app/?username=saketchoudhary" alt="saketchoudhary" /></a> </p>
+<p align="left"> <a href="https://github.com/saket221211"><img src="https://github-profile-trophy.vercel.app/?username=saketchoudhary" alt="saketchoudhary" /></a> </p>
 
 <p align="left"> <a href="https://www.instagram.com/saketofficial/" target="blank"><img src="https://img.shields.io/twitter/follow/saketofficial?logo=twitter&style=for-the-badge" alt="saketofficial" /></a> </p>
 
@@ -38,11 +38,11 @@ Eager to solve challenging problems and always enthusiastic about learning new t
 
 - 🤝 I’m looking for help with **Creating our own Blockchain Network**
 
-- 👨‍💻 All of my projects are available at [https://glitch.com/@saketchoudhary](https://glitch.com/@saketchoudhary)
+- 👨‍💻 All of my projects are available at [https://glitch.com/@saketchoudhary](https://glitch.com/@saket221211)
 
 - 💬 Ask me about **AIML, Data Science, Web Development**
 
-- 📫 How to reach me **princelv84@gmail.com**
+- 📫 How to reach me **saket221211@gmail.com**
 
 - 📄 Know about my experiences [https://saket.glitch.me/](https://saket.glitch.me/)
 
