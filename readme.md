@@ -28,7 +28,7 @@ Eager to solve challenging problems and always enthusiastic about learning new t
 
 <p align="left"> <a href="https://github.com/saket221211"><img src="https://github-profile-trophy.vercel.app/?username=saketchoudhary" alt="saketchoudhary" /></a> </p>
 
-<p align="left"> <a href="https://www.instagram.com/saketofficial/" target="blank"><img src="https://img.shields.io/twitter/follow/saketofficial?logo=twitter&style=for-the-badge" alt="saketofficial" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/saketkumarchoudhary/" target="blank"><img src="https://img.shields.io/twitter/follow/saketofficial?logo=twitter&style=for-the-badge" alt="saketkumarchoudhary" /></a> </p>
 
 - 🔭 I’m currently working as [AIML Intern at NIELIT Chandigarh](https://nielit.gov.in/chandigarh/index.php)
 
