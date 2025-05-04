@@ -30,7 +30,7 @@ Eager to solve challenging problems and always enthusiastic about learning new t
 
 <p align="left"> <a href="https://www.instagram.com/saketkumarchoudhary/" target="blank"><img src="https://img.shields.io/twitter/follow/saketofficial?logo=twitter&style=for-the-badge" alt="saketkumarchoudhary" /></a> </p>
 
-- 🔭 I’m currently working as [INDIA(AIML) Intern at NIELIT Chandigarh](https://nielit.gov.in/chandigarh/index.php)
+- 🔭 I’m currently working as [INDIA(AIML) Intern at NIELIT ROPAR Chandigarh](https://nielit.gov.in/chandigarh/index.php)
 
 - 🌱 I’m currently learning **Django and React**
 
